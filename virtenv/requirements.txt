@@ -1,0 +1,23 @@
+# For Linting
+pep8
+pycodestyle
+pylint
+flake8
+coverage
+
+# CadQuery depends
+multimethod
+nptyping
+typing_extensions
+ipython
+ezdxf
+pyparsing>=2.1.9
+logbook
+pyqt5
+pyqtgraph
+spyder
+path.py
+requests
+
+# Cadquery
+git+https://github.com/CadQuery/cadquery@master
